@@ -12,20 +12,26 @@ This repository contains hands-on labs and projects completed through independen
 
 ## Projects
 
-### Wazuh SIEM Homelab
-Security monitoring, log analysis, and threat detection.
+### 🔹 [Wazuh SIEM Homelab](./Wazuh-SIEM-Homelab)
 
-### Incident Response Journal
-Documentation and analysis of security incidents.
+Built and operated a Wazuh SIEM environment to detect, investigate, remediate, and validate endpoint vulnerabilities.
 
-### Linux Security Administration
-User permissions and access control exercises.
+### 🔹 [Incident Response Journal](./Incident-Response-Journal)
 
-### SQL Security Labs
-Database filtering and investigation queries.
+Documented security investigations and applied incident response methodologies.
 
-### Python Security Projects
-Automation and file integrity monitoring.
+### 🔹 [Linux File Permissions](./Linux-File-Permissions)
 
-### Vulnerability Assessment Labs
-Risk identification and remediation exercises.
+Applied least privilege principles and Linux access control management.
+
+### 🔹 [SQL Security Labs](./SQL-Security-Labs)
+
+Investigated authentication activity and analyzed security data using SQL.
+
+### 🔹 [Python Access Control Automation](./Python-Access-Control-Automation)
+
+Automated allow list management and security administration tasks using Python.
+
+### 🔹 [Vulnerability Assessment Lab](./Vulnerability-Assessment-Lab)
+
+Performed risk assessments and developed remediation strategies using NIST methodologies.
