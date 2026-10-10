@@ -112,4 +112,4 @@ This project strengthened skills directly applicable to:
 - Incident Response Analyst
 - Threat Intelligence Analyst
 
-It also reinforced how investigative thinking, documentation, risk assessment, and structured response procedures translate from security operations into cybersecurity.
+It also reinforced how investigative thinking, documentation, risk assessment, and structured response procedures developed in physical security operations can transfer to cybersecurity.
