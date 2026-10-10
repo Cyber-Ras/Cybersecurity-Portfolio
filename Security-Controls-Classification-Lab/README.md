@@ -29,29 +29,22 @@ This lab utilized observations from anonymized real-world commercial environment
 
 ---
 
-## Site #1
 
-| Control | Category | Type |
-|----------|-----------|------|
-| Gates | Physical | Preventive, Deterrent |
-| Fences | Physical | Preventive, Deterrent |
-| Security Guards | Physical, Operational | Detective, Deterrent |
-| Cameras | Physical | Detective |
-| Lighting | Physical | Deterrent |
-| Phone-Based Access Authorization | Operational | Compensating, Preventative |
-| Employee Badge System | Physical | Preventive |
-| Call for Entry Signs | Physical | Directive |
+## Generalized Security Control Analysis
 
----
+The following table summarizes security controls examined during this learning exercise. It groups controls by their security functions rather than documenting configurations at individual properties or client facilities.
 
-## Site #2
+| Generalized Control | Category | Type |
+|---|---|---|
+| Perimeter Barriers | Physical | Preventive, Deterrent |
+| Credential-Based Entry Controls | Physical | Preventive |
+| Access Authorization Procedures | Operational | Preventive |
+| Security Personnel and Patrols | Physical, Operational | Detective, Deterrent |
+| Surveillance Systems | Physical | Detective |
+| Security Lighting | Physical | Deterrent |
+| Posted Access Instructions | Physical | Directive |
 
-| Control | Category | Type |
-|----------|-----------|------|
-| Badge Access Doors | Physical | Preventive |
-| Mobile Patrol Security Guard | Physical, Operational | Detective, Deterrent |
-| Cameras | Physical | Detective |
-| Lighting | Physical | Deterrent |
+This classification illustrates how different control categories and types contribute to defense in depth. It is not a site-specific security inventory.
 
 ---
 
