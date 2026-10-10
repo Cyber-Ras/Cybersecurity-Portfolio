@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-**Security Operations Professional | SOC • Threat Intelligence • Incident Response**
+**Cyber-Ras | Cybersecurity + Technical Systems**
 
 Security Operations Professional transitioning into cybersecurity with hands-on experience in SIEM monitoring, incident response, vulnerability management, and risk analysis. This portfolio showcases practical projects demonstrating real-world security workflows and foundational cybersecurity competencies.
 
