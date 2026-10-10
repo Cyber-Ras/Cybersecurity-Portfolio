@@ -1,6 +1,7 @@
 # Cybersecurity Portfolio
 
 **Cyber-Ras | Cybersecurity + Technical Systems**
+Building toward Cybersecurity + AI
 
 Security Operations Professional transitioning into cybersecurity with hands-on experience in SIEM monitoring, incident response, vulnerability management, and risk analysis. This portfolio showcases practical projects demonstrating real-world security workflows and foundational cybersecurity competencies.
 
