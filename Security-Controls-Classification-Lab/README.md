@@ -11,7 +11,7 @@ Identify, classify, and analyze real-world security controls according to CompTI
 - Defense in Depth Analysis
 - Security Documentation
 - Risk Awareness
-- Security Operations Analysis
+- Physical Security Controls Analysis
 - Application of Security+ Concepts
 
 ---
@@ -75,4 +75,4 @@ This lab reinforces CompTIA Security+ concepts related to security control categ
 - Developed a better understanding of how security controls are implemented in real-world environments.
 - Improved ability to classify controls using cybersecurity terminology.
 - Recognized how layered controls contribute to overall security posture.
-- Identified how physical security experience translates into cybersecurity concepts such as defense in depth, risk assessment, and security operations.
+- Identified how physical security operations experience connects to cybersecurity concepts such as defense in depth and risk assessment.
