@@ -41,7 +41,7 @@ I am developing toward entry-level cybersecurity or strong technical systems opp
 
 ## Portfolio Metrics
 
-- 📁 **6 Security Projects**
+- 📁 **6 Featured Security Projects**
 - 🖥️ **1 SIEM Homelab Deployment**
 - 🐧 **Linux Security Administration**
 - 🐍 **Python Security Automation**
