@@ -12,7 +12,7 @@ I am developing toward entry-level cybersecurity or strong technical systems opp
 
 ## Core Competencies
 
-- Security Operations (SOC)
+- SOC Workflows & Security Monitoring (Lab-Based)
 - SIEM Monitoring & Alert Triage
 - Incident Response
 - Vulnerability Management
@@ -88,8 +88,10 @@ Performed risk assessments, analyzed threats, and developed remediation recommen
 
 ## Career Interests
 
+- Technical Systems & Infrastructure Support
 - Security Operations Center (SOC)
 - Threat Intelligence
 - Incident Response
 - Vulnerability Management
 - Blue Team Operations
+- Cybersecurity + AI (Long-Term Direction)
