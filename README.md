@@ -1,12 +1,12 @@
 # Cybersecurity Portfolio
 
-**Cyber-Ras | Cybersecurity + Technical Systems**
+**Cyber-Ras | Cybersecurity Portfolio**
 
 Building toward Cybersecurity + AI
 
 I bring approximately seven years of professional physical security operations experience alongside formal cybersecurity training and hands-on technical projects.
 This portfolio documents lab-based work involving SIEM monitoring, incident response, vulnerability management, Linux security, SQL investigations, and Python automation.
-I am developing toward entry-level cybersecurity or strong technical systems opportunities, with a long-term direction in Cybersecurity + AI.
+I am developing toward entry-level cybersecurity roles while remaining open to worthwhile technical bridge opportunities, with a long-term direction in Cybersecurity + AI.
 
 ---
 
@@ -88,7 +88,6 @@ Performed risk assessments, analyzed threats, and developed remediation recommen
 
 ## Career Interests
 
-- Technical Systems & Infrastructure Support
 - Security Operations Center (SOC)
 - Threat Intelligence
 - Incident Response
